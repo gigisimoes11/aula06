@@ -8,3 +8,4 @@ if (altura >= 1.50 && idade >= 12 && !problemaCardiaco == true){
 }else{
     console.log("voce nao pode andar")
 }
+
